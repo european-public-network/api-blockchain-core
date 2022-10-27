@@ -1,0 +1,11 @@
+dist/index.js.js.map
+dist-test/*
+bundles/bcc/dbcpPath.json
+discify/
+docs/*
+docu/
+scripts/
+src/
+.env
+tsconfig.json
+tslint.json
